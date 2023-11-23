@@ -58,7 +58,7 @@ export const Contact = () => (
           <a href="mailto:axcora@gmail.com" className="btn btn-outline-danger">
             Email
           </a>{" "}
-          <a href="tel:+6285331361404" className="btn btn-outline-primary">
+          <a href="tel:+62895339403223" className="btn btn-outline-primary">
             Call us
           </a>
         </div>
